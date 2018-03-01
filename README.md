@@ -1,4 +1,5 @@
-# learning-dart
+learning Dart and Flutter
+=========================
 a repo created in order to learn Dart language (and Flutter Framework)
 
 References
