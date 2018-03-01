@@ -2,6 +2,33 @@ learning Dart and Flutter
 =========================
 a repo created in order to learn Dart language (and Flutter Framework)
 
+Installation
+------------
+
+Read here: https://www.dartlang.org/install
+
+Writing programs
+----------------
+
+### Command Line or server apps for Dart VM
+
+See dir `tasks/cmd`.
+Running sample program:
+
+```
+dart hello.dart
+```
+
+Read more at: https://www.dartlang.org/tutorials/dart-vm/cmdline
+
+### Web apps
+
+Read more at: https://webdev.dartlang.org/
+
+### Mobile apps
+
+Read more at: https://flutter.io/
+
 References
 ----------
 
